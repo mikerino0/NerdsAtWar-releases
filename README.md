@@ -7,14 +7,14 @@ Op dit moment speel je tegen de AI. Tegen elkaar spelen komt eraan. Je hebt Wind
 ## Installeren
 
 1. Download `NerdsAtWar.exe` van de [downloadpagina](https://github.com/mikerino0/NerdsAtWar-releases/releases/latest).
-2. Zet het bestand op een plek die je makkelijk terugvindt, bijvoorbeeld je bureaublad.
-3. Start het. De eerste keer haalt het de game op, dat is ongeveer 115 MB.
+2. Start het. De game komt op je bureaublad en in het Startmenu te staan als **Nerds at War**. De eerste keer wordt ook de game opgehaald, dat is ongeveer 115 MB.
+3. Daarna mag de download weg.
 
 Waarschijnlijk zegt Windows eerst "Windows heeft uw pc beschermd". Dat komt doordat de game niet digitaal is ondertekend. Klik op **Meer info** en daarna op **Toch uitvoeren**. Dat hoeft maar één keer.
 
 ## Updates
 
-Start het spel altijd met `NerdsAtWar.exe`. Dat kijkt elke keer of er een nieuwe versie is, haalt die op en start de game. Je hoeft er zelf niets voor te doen. Zonder internet start gewoon de versie die je al hebt.
+Start het spel altijd met **Nerds at War** op je bureaublad of in het Startmenu. Dat kijkt elke keer of er een nieuwe versie is, haalt die op en start de game. Je hoeft er zelf niets voor te doen. Zonder internet start gewoon de versie die je al hebt.
 
 ## Besturing
 
